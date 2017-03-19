@@ -1,4 +1,4 @@
-.pic{
+/*.pic{
   display:flex; 
   justify-content:flex-start; 
   padding-bottom: 20px;
@@ -40,7 +40,7 @@
 }
 
 body {
-  background-color:fffff;
+  background-color:#ffffff;
 }
 .navbar-padding{
   padding-left: 100px;
@@ -53,3 +53,4 @@ body {
 .content{
   font-family: "Lucida Grande" ;
 }
+*/

@@ -1,7 +1,9 @@
+
+
 .top{
     display: flex;
     justify-content: space-around;
-    background-color: #f8d1ff;
+    background-color: #ffffff;
     line-height: 2.25;
     font-family: "Verdana", Verdana;
 }
@@ -20,11 +22,12 @@
 .banner img{
     display: flex;
         flex-grow: 15;
-        width: 80%;
-        padding-left: 125px;
+        width: 60%;
+        margin: 0 auto;
         padding-top: 20px;
+        padding-bottom: 50px;
 }
 
 body{
-    background-color: #8b93ba;
+    background-color: #91dfa6;
 }
