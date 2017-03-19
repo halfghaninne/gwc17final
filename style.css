@@ -1,0 +1,30 @@
+.top{
+    display: flex;
+    justify-content: space-around;
+    background-color: #f8d1ff;
+    line-height: 2.25;
+    font-family: "Verdana", Verdana;
+}
+
+.profiles{
+    display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+}
+
+.profiles img{
+        padding-bottom: 15px;
+        padding-top: 15px;
+}
+
+.banner img{
+    display: flex;
+        flex-grow: 15;
+        width: 80%;
+        padding-left: 125px;
+        padding-top: 20px;
+}
+
+body{
+    background-color: #8b93ba;
+}

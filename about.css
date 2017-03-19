@@ -1,0 +1,55 @@
+.pic{
+  display:flex; 
+  justify-content:flex-start; 
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left:20px;
+}
+
+.pic-alex{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left:20px;
+}
+.text{
+    display:flex; 
+        
+      justify-content:flex-end;
+      color:black;
+}
+
+.flex-style {
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left:20px;
+}
+.navbar{
+  color:black;
+  background-color: #22a17e;
+  display:flex;
+  justify-content:space-around;
+
+}
+
+.navbar a {
+  color:black;
+}
+
+body {
+  background-color:fffff;
+}
+.navbar-padding{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.title{
+ font-family: "Helvetica" ;
+}
+.content{
+  font-family: "Lucida Grande" ;
+}
