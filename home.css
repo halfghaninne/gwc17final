@@ -65,8 +65,9 @@ body{
     padding-left:20px;
 }
 
-.flex-style img {
+.resourceimg {
     width: 280px;
+    padding-right: 10px;
 }
 
 .resourcesbold{
@@ -75,6 +76,11 @@ body{
     justify-content: space-around;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+.resourcetitle {
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .groupimg {
