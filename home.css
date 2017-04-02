@@ -1,5 +1,6 @@
 .pic-alex{
 padding:10px;
+height: 300px;
 }
 
 
@@ -72,3 +73,6 @@ body{
     padding-bottom: 15px;
 }
 
+.groupimg {
+    width: 550px;
+}
