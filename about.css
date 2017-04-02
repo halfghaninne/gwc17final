@@ -20,6 +20,8 @@
       color:black;
 }
 
+
+
 .flex-style {
     display: flex;
     padding-bottom: 20px;
@@ -40,7 +42,7 @@
 }
 
 body {
-  background-color:#ffffff;
+  background-color:#91dfa6;
 }
 .navbar-padding{
   padding-left: 100px;

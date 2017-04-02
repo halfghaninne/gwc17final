@@ -1,4 +1,16 @@
+.pic-alex{
+padding:10px;
+}
 
+
+
+.content{
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+.top a {
+    color: black;
+}
 
 .top{
     display: flex;
@@ -27,8 +39,36 @@
         margin: 0 auto;
         padding-top: 20px;
         padding-bottom: 50px;
+        background: white;
 }
 
 body{
     background-color: #91dfa6;
 }
+
+.iframe{
+    display: flex;
+        justify-content: space around;
+ 
+}
+
+.linkcolors{
+    color: ;
+}
+
+.flex-style {
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left:20px;
+}
+
+.resourcesbold{
+    font-size: 35px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
